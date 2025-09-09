@@ -6,6 +6,9 @@ version: 0.1.0
 environment:
   sdk: ^3.9.0
 
+# add this line to your dependencies
+fluttertoast: ^8.2.12
+
 dependencies:
   flutter:
     sdk: flutter
